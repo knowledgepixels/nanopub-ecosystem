@@ -4,6 +4,10 @@ This repository holds some general info and issues about the nanopublication eco
 
 ### 2nd Generation Nanopublication Services
 
+- Applications
+  - provide (graphical) user interfaces
+  - get data from Query, Registry, and Archive services
+  - _e.g. Nanodash_
 - Nanopub Query services:
   - run queries
   - get data from Registry and Archive services
@@ -24,5 +28,6 @@ This repository holds some general info and issues about the nanopublication eco
 - Nanopub Dumps services:
   - provide bulk nanopublication files
   - get data from Registry and Archive services
+  - can be based on existing data repositories such as Zenodo
   - are open
   - _to be developed_
