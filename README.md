@@ -4,6 +4,7 @@ This repository holds some general info and issues about the nanopublication eco
 
 ### 1st Generation Nanopublication Services
 
+- Applications, e.g. [Nanodash](https://github.com/knowledgepixels/nanodash)
 - [Nanopub Server](https://github.com/tkuhn/nanopub-server)
 - [Nanopub Services](https://github.com/peta-pico/nanopub-services) / [Nanopub Signed Services](https://github.com/peta-pico/signed-nanopub-services)
 
@@ -12,7 +13,7 @@ This repository holds some general info and issues about the nanopublication eco
 - Applications
   - provide (graphical) user interfaces
   - get data from Query, Registry, and Archive services
-  - _e.g. [Nanodash](https://github.com/knowledgepixels/nanodash)_
+  - _e.g. future version of [Nanodash](https://github.com/knowledgepixels/nanodash)_
 - Nanopub Query services:
   - run queries
   - get nanopublications from Registry services
