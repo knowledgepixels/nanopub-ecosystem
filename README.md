@@ -9,12 +9,14 @@ This repository holds some general info and issues about the nanopublication eco
   - open or restricted
   - currently in alpha version
 - Nanopub Registry:
-  - provides individual nanopublications by pubkey/type
+  - coverage by pubkeys/types (via setting)
+  - provides lists of nanopublications by pubkey/type
   - accepts new nanopublications
   - open
   - currently in design phase
 - Nanopub Archive:
-  - provides individual nanopublications by URI/hash prefix
+  - coverage by URI/hash prefix
+  - provides individual nanopublications by URI/hash
   - open
   - to be developed
 - Nanopub Dumps:
