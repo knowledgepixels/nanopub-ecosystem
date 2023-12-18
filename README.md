@@ -10,7 +10,7 @@ This repository holds some general info and issues about the nanopublication eco
   - _e.g. Nanodash_
 - Nanopub Query services:
   - run queries
-  - get nanopublications from Registry and Archive services
+  - get nanopublications from Registry services
   - have coverage by agents/pubkeys (and optionally types)
   - are open or restricted
   - _currently in alpha version_
