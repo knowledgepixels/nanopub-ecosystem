@@ -4,22 +4,25 @@ This repository holds some general info and issues about the nanopublication eco
 
 ### 2nd Generation Nanopublication Services
 
-- Nanopub Query:
-  - runs queries
-  - open or restricted
-  - currently in alpha version
-- Nanopub Registry:
-  - coverage by pubkeys/types (via setting)
-  - provides lists of nanopublications by pubkey/type
-  - accepts new nanopublications
-  - open
-  - currently in design phase
-- Nanopub Archive:
-  - coverage by URI/hash prefix
-  - provides individual nanopublications by URI/hash
-  - open
-  - to be developed
-- Nanopub Dumps:
-  - provides bulk nanopublication files
-  - open
-  - to be developed
+- Nanopub Query services:
+  - run queries
+  - get data from Registry and Archive services
+  - are open or restricted
+  - _currently in alpha version_
+- Nanopub Registry services:
+  - have coverage by pubkeys/types (via setting)
+  - provide lists of nanopublications by pubkey/type
+  - accept new nanopublications
+  - are open
+  - _currently in design phase_
+- Nanopub Archive services:
+  - have coverage by URI/hash prefix
+  - provide individual nanopublications by URI/hash
+  - get data from Registry services
+  - are open
+  - _to be developed_
+- Nanopub Dumps services:
+  - provide bulk nanopublication files
+  - get data from Registry and Archive services
+  - are open
+  - _to be developed_
