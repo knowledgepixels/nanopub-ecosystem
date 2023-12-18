@@ -17,7 +17,7 @@ This repository holds some general info and issues about the nanopublication eco
 - Nanopub Registry services:
   - have coverage by agents/pubkeys (and optionally types)
   - provide lists of nanopublications by pubkey/type
-  - accept new nanopublications
+  - publish new nanopublications
   - are open
   - _currently in design phase_
 - Nanopub Archive services:
