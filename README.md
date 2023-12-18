@@ -9,6 +9,7 @@ This repository holds some general info and issues about the nanopublication eco
   - get data from Query, Registry, and Archive services
   - _e.g. Nanodash_
 - Nanopub Query services:
+  - have coverage by pubkeys/types (via setting)
   - run queries
   - get data from Registry and Archive services
   - are open or restricted
