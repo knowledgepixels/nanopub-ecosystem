@@ -27,7 +27,7 @@ This repository holds some general info and issues about the nanopublication eco
   - _to be developed_
 - Nanopub Dumps services:
   - provide bulk nanopublication files
-  - get data from Registry and Archive services
+  - get data from Archive, Registry, and Query services
   - can be based on existing data repositories such as Zenodo
   - are open
   - _to be developed_
