@@ -21,7 +21,7 @@ This repository holds some general info and issues about the nanopublication eco
   - are open or restricted
   - _[currently in alpha version](https://github.com/knowledgepixels/nanopub-query)_
 - Nanopub Registry services:
-  - provide lists of nanopublications by pubkey/type
+  - provide lists of nanopublications by pubkey/type and by URI/hash prefix
   - publish new nanopublications
   - get existing nanopublications from other Registry services and new ones from applications/users
   - have coverage by agents/pubkeys (and optionally types)
